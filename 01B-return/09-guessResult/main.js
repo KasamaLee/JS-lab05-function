@@ -1,12 +1,11 @@
-บรรทัด \*, \*\*, \*\*\* และ \*\*\*\* ให้ผลลัพธ์เป็นอะไร เพราะอะไร
+// บรรทัด \*, \*\*, \*\*\* และ \*\*\*\* ให้ผลลัพธ์เป็นอะไร เพราะอะไร
 
-```js
-function sayHi(age) {
-  if (age < 12) alert("Hi kid");
-}
-console.log(sayHi); // * => ƒ sayHi()
-console.log(sayHi(10)); // ** => alert => 'Hi kid'  // return undefined
-```
+// function sayHi(age) {
+//   if (age < 12) alert("Hi kid");
+// }
+// console.log(sayHi); // * => ƒ sayHi()
+// console.log(sayHi(10)); // ** => alert => 'Hi kid'  // return undefined
+
 
 
 function sayHi(name) {
